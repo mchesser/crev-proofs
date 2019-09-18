@@ -83,3 +83,20 @@ comment: Author of cargo-crev
 a_osp4QPhwqJA-zJDBOdI7XLedndyJjEA9UXtEG5Z_VO8ggAep6PY0nC0vRIv49EpdusYCNQX8ogL4y7dkLJAA
 -----END CREV TRUST-----
 
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-09-18T14:49:51.061701900+09:30"
+from:
+  id-type: crev
+  id: pJh15aoNWTTs2jR4hDw8o-glehfLf7kOqZW-cNUNZYM
+  url: "https://github.com/mchesser/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+comment: Author of several well known tools and crates
+-----BEGIN CREV TRUST SIGNATURE-----
+OUx_2S3uQa-NX4zewDo3UMHGbwLOES0He2fEr9rb-HPPE_9ImHjGKGuNuULR7ZLdRdAmMnxzGVrQbrThSv5HAw
+-----END CREV TRUST-----
+
