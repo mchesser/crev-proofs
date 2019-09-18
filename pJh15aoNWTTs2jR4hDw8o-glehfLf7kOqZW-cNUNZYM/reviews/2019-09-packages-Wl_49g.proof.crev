@@ -20,3 +20,25 @@ comment: |
 XozjXVi4q5vUAfJuE1qMpQWkcUB75zrsatowqll4FtfcwD4gx42GN8ZBT9umb-LmO6Q_rLO0-8WK7shDztMuDQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-09-18T15:16:56.162877100+09:30"
+from:
+  id-type: crev
+  id: pJh15aoNWTTs2jR4hDw8o-glehfLf7kOqZW-cNUNZYM
+  url: "https://github.com/mchesser/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: sid
+  version: 0.5.2
+  digest: 32_H4ix79JwqJzVlEltZGdceomRfjKcSNI9ugPz17us
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |
+  Code seems reasonable and straightforward
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+oT2BjQHAuNWAbpWqlIIVWRtbdjchH6qrST8mvx_2IzI6cJyOZNIkyZB0vMqOkxRy413SX6zj3v6BvfUoVkJSAQ
+-----END CREV PACKAGE REVIEW-----
+
