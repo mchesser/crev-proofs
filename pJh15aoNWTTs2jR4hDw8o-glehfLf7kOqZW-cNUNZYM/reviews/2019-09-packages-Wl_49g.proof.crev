@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-09-18T15:06:44.975723100+09:30"
+from:
+  id-type: crev
+  id: pJh15aoNWTTs2jR4hDw8o-glehfLf7kOqZW-cNUNZYM
+  url: "https://github.com/mchesser/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: matches
+  version: 0.1.8
+  digest: wEgXzIZmN2BvT4dl90vyR0WVYgLwYc0BETwLJ_ySYOc
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |
+  Defines a trivial macro which is easy to verify the implementation of.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+XozjXVi4q5vUAfJuE1qMpQWkcUB75zrsatowqll4FtfcwD4gx42GN8ZBT9umb-LmO6Q_rLO0-8WK7shDztMuDQ
+-----END CREV PACKAGE REVIEW-----
+
